@@ -1,4 +1,4 @@
-### Présentaion
+### Présentation
 
 - `jeu_ebauche.py` est une ébauche de jeu de plateforme basée sur les modules Pygame. Il explore uniquement quelques mécanismes de base.
 
@@ -12,4 +12,4 @@ Il faut avoir installé __Python3__ et les modules __Pygame__ pour pouvoir lance
 
 - Pour exécuter `jeu_ebauche.py`, lancer `make exe_ebauche`.
 - Pour exécuter `jeu_RPG.py`, lancer `make exe_RPG`.
-# game
+
